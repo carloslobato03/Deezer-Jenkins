@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-armada",
+  "private": false,
+  "version": "0.0.1",
+  "description": "Basic Watson Tone application for Node.js",
+  "dependencies": {
+    "ejs": "*",
+    "express": "3.x",
+    "path": "*",
+    "request": "^2.82.0"
+  }
+}

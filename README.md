@@ -1,1 +1,1 @@
-# Deezer-Jenkins-Public
+# Deezer-Jenkins
